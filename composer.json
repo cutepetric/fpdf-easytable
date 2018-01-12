@@ -1,1 +1,4 @@
-
+{
+    "name": "fpdf-easytable/fpdf-easytable",
+    "minimum-stability": "dev"
+}
