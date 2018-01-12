@@ -1,4 +1,11 @@
 {
     "name": "fpdf-easytable/fpdf-easytable",
-    "minimum-stability": "dev"
+    "type": "library",
+    "autoload": {
+        "classmap": [
+            "easyTable.php",
+            "exfpdf.php",
+            "formatedstring.php"
+        ]
+    }
 }
